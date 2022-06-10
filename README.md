@@ -40,7 +40,7 @@ JavaScript를 브라우저 외에 로컬PC에서도 실행시킬 수 있는 실�
 
 [링크](http://localhost:8080/write)
 
-## POST요청
+## POST요청(폼에 입력한 데이터를 서버로 전달하기) 
 Post요청으로 데이터 전송하려면 body-parser를 설치해야한다.
 다음으로 html파일에 form데이터의 input에 name을 써준다.
 
