@@ -35,4 +35,6 @@ JavaScript를 브라우저 외에 로컬PC에서도 실행시킬 수 있는 실�
 ![화면 캡처 2022-06-10 144346](https://user-images.githubusercontent.com/62206966/172998567-79d374c6-84dc-4b0f-a1c2-219033b1dcfb.png)
 [링크바로가기](http://localhost:8080/
 
+## bootstrap을 이용해서 홈페이지 꾸미기
+[링크](http://localhost:8080/write)
 
