@@ -36,5 +36,7 @@ JavaScript를 브라우저 외에 로컬PC에서도 실행시킬 수 있는 실�
 [링크바로가기](http://localhost:8080/
 
 ## bootstrap을 이용해서 홈페이지 꾸미기
+![화면 캡처 2022-06-10 152708](https://user-images.githubusercontent.com/62206966/173004382-98d298a4-607c-463f-94a8-72bffe504fcb.png)
+
 [링크](http://localhost:8080/write)
 
