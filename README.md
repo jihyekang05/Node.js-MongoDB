@@ -23,3 +23,7 @@ JavaScript를 브라우저 외에 로컬PC에서도 실행시킬 수 있는 실�
 ## 처음 만든 서버8080
 ![화면 캡처 2022-06-10 141000](https://user-images.githubusercontent.com/62206966/172994730-45eb7802-6ab2-4f67-8558-0277a9d4bfe7.png)
 
+## localhost:8080/pet
+
+![화면 캡처 2022-06-10 141922](https://user-images.githubusercontent.com/62206966/172995619-0a72e46a-8daa-4c4d-9cfb-784709bf0ad1.png)
+
