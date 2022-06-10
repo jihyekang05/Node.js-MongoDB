@@ -43,3 +43,7 @@ JavaScript를 브라우저 외에 로컬PC에서도 실행시킬 수 있는 실�
 ## POST요청
 Post요청으로 데이터 전송하려면 body-parser를 설치해야한다.
 다음으로 html파일에 form데이터의 input에 name을 써준다.
+
+![화면 캡처 2022-06-10 155739](https://user-images.githubusercontent.com/62206966/173008628-af07db4d-32f8-4c02-8428-4aa6ea1606f1.png)
+
+내가 name을 title로 정해준 곳에 입력값을 확인할 수 있다.
