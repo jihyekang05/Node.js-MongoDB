@@ -27,3 +27,8 @@ JavaScript를 브라우저 외에 로컬PC에서도 실행시킬 수 있는 실�
 
 ![화면 캡처 2022-06-10 141922](https://user-images.githubusercontent.com/62206966/172995619-0a72e46a-8daa-4c4d-9cfb-784709bf0ad1.png)
 
+## nodemon설치
+터미널 창에 npm install -g nodemon을 설치하면 매번 터미널을 새로 열기 하지 않아도 된다.
+
+## 홈페이지 기본 화면 설정
+* index.html 파일을 생성해서 홈페이지 화면을 만들었다.
